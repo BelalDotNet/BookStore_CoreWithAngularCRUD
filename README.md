@@ -1,3 +1,6 @@
+
+![](https://github.com/BelalDotNet/BookStore_CoreWithAngularCRUD/blob/master/AngularCRUD.png)
+
 Hi Everyone!
 I am Belal Hossain,
 mdbillal73@gmail.com
@@ -9,7 +12,7 @@ Course Name: ESAD
 TSP : NVIT, CTG
 Trainee ID 1245968
 ===============================================================
-I developed a simple ìBookStoreî web application 
+I developed a simple ‚ÄúBookStore‚Äù web application 
 which will perform the complete CRUD operations by Using 
 
 Technology : 
@@ -17,6 +20,10 @@ Technology :
 02 :  ASP.NET Core 2.2 
 03 :  Entity framework Core 
 04 :  code first approach.
+==================================================================
+
+
+
 
 
 
