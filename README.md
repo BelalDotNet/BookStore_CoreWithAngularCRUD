@@ -8,7 +8,7 @@ Cell : 01815716388
 
 Trainee of IDB-BISEW IT Scholarship Project.
 Round No-38,
-Course Name: ESAD
+Course Name: ESAD-CS(C#.Net)
 TSP : NVIT, CTG
 Trainee ID 1245968
 ===============================================================
